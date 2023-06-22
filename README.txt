@@ -1,6 +1,3 @@
-"Group1-5040 final project.docx" is the final report
-"Group1-5040 final project.pptx" is the final presentation 
-
 "Code" file contains all the files of the code to do the matching
 	"Dedupe" file is the file to make the matching and create the golden table
 		"Dedupe.ipynb" is the main code for ER method
